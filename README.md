@@ -5,6 +5,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Java-Training-ReverseArray
 =======
 # Mobile-Phone-Contacts-Managing-a-List-of-Names-Calls
@@ -27,3 +28,6 @@
 =======
 # Java-Training-MinFinder-Reading-StoringData-for-MinimumValueDiscovery
 >>>>>>> min-finder-branch
+=======
+# Java-Training-Toner-DuplexPrinting-EnforcingEncapsulation-in-PrinterClass
+>>>>>>> toner-printer-branch
