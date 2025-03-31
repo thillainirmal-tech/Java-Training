@@ -6,6 +6,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Java-Training-ReverseArray
 =======
 # Mobile-Phone-Contacts-Managing-a-List-of-Names-Calls
@@ -31,3 +32,6 @@
 =======
 # Java-Training-Toner-DuplexPrinting-EnforcingEncapsulation-in-PrinterClass
 >>>>>>> toner-printer-branch
+=======
+# Java-Training-LastDigitChecker
+>>>>>>> last-digit-checker-branch
