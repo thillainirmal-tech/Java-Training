@@ -2,6 +2,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Java-Training-ReverseArray
 =======
 # Mobile-Phone-Contacts-Managing-a-List-of-Names-Calls
@@ -15,3 +16,6 @@
 =======
 # Java-Training-polymorphsimChallenge1
 >>>>>>> polymorphism1-branch
+=======
+# Java-Training-polymorphismChallenge2
+>>>>>>> polymorphism2-branch
