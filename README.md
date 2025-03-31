@@ -4,6 +4,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Java-Training-ReverseArray
 =======
 # Mobile-Phone-Contacts-Managing-a-List-of-Names-Calls
@@ -23,3 +24,6 @@
 =======
 # Java-Training-Descending-StrengtheningArrayProcessingLogic
 >>>>>>> descending-array-branch
+=======
+# Java-Training-MinFinder-Reading-StoringData-for-MinimumValueDiscovery
+>>>>>>> min-finder-branch
