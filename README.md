@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Java-Training-ReverseArray
 =======
 # Mobile-Phone-Contacts-Managing-a-List-of-Names-Calls
@@ -7,3 +8,6 @@
 =======
 # Java-Training-Storing--Songs---Custom-Track-Numbers
 >>>>>>> songs-storage-branch
+=======
+# Java-Training-Branches-Customers---Transactions
+>>>>>>> customers-transactions-branch
